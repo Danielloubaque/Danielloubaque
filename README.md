@@ -1,9 +1,11 @@
 # Daniel de Omena Loubaque
-### TI • Full Stack • Software • Automação | Brazil • Remote
+### Fundador, CEO & Desenvolvedor Full Stack | Vyntriva Tech
 
-Sou um profissional em transição da produção industrial para Tecnologia da Informação, cursando Desenvolvimento Full Stack na TipsCode. Busco oportunidades de entrada em Suporte N1, Help Desk, Service Desk e Desenvolvimento Web Júnior, inclusive trabalho remoto.
+Sou Daniel Loubaque, fundador e CEO da Vyntriva Tech. Curso Análise e Desenvolvimento de Sistemas e formação em Desenvolvimento Full Stack na TipsCode. Desenvolvo soluções de software, Front-end, Back-end, automação de processos, integração de sistemas e inteligência artificial para empresas no Brasil e nos Estados Unidos.
 
-Tenho conhecimentos de Windows, hardware, periféricos e redes básicas; fundamentos de Python, HTML5 e CSS3. Meus projetos utilizam também TypeScript, React, Node.js e APIs. A presença dessas tecnologias nos projetos não representa domínio avançado individual.
+Minha trajetória inclui produção industrial, qualidade, procedimentos documentados e trabalho em equipe. Também estou disponível para oportunidades de TI e desenvolvimento web, inclusive remotas.
+
+Tenho conhecimentos de Windows, hardware, periféricos e redes básicas; fundamentos de Python, HTML5 e CSS3. Meus projetos utilizam também TypeScript, React, Node.js e APIs. Os estudos de caso detalham a arquitetura, as funcionalidades e o estado de cada implementação.
 
 ## Projetos / Projects
 | Projeto | Apresentação pública | Demonstração |
@@ -16,10 +18,10 @@ Tenho conhecimentos de Windows, hardware, periféricos e redes básicas; fundame
 | OmniHub Sync | [Estudo de caso](https://github.com/Danielloubaque/omnihub-sync-portfolio) | Sem demonstração pública com dados comerciais |
 
 ## English
-I am transitioning from industrial production into IT and studying Full Stack Development at TipsCode. I am seeking entry-level IT support, help desk, service desk and junior web opportunities, including remote work from Brazil. My background includes quality inspection, documented procedures and teamwork. Portuguese is my primary language; I do not currently have professional working proficiency in English.
+I am the founder and CEO of Vyntriva Tech, studying Systems Analysis and Development and Full Stack Development at TipsCode. I build software, web interfaces, backend services, process automation and system integrations, applying AI as a development tool. I am seeking entry-level IT support, help desk, service desk and junior web opportunities, including remote work from Brazil. My background includes quality inspection, documented procedures and teamwork. Portuguese is my primary language; I do not currently have professional working proficiency in English.
 
 ## Participação e IA / Contribution and AI
-Sou responsável pelos objetivos, decisões de produto e acompanhamento dos projetos. O desenvolvimento e a documentação contam com assistência de inteligência artificial. Estes projetos não equivalem a experiência formal como desenvolvedor contratado. Não atribuo autoria manual exclusiva a código gerado com IA. Repositórios operacionais permanecem privados; os estudos públicos são documentação selecionada sem histórico ou dados de produção.
+Sou responsável pelos objetivos, decisões de produto e acompanhamento dos projetos. O desenvolvimento e a documentação contam com assistência de inteligência artificial. Utilizo inteligência artificial como ferramenta de desenvolvimento, documentação e apoio técnico. Repositórios operacionais permanecem privados; os estudos públicos são documentação selecionada sem histórico ou dados de produção.
 
 ## Contato / Contact
 [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) • [Vyntriva Tech](https://vyntriva-tech.onrender.com) • [E-mail profissional](mailto:danielloubaque.omena.om@gmail.com)
@@ -28,6 +30,6 @@ Disponível para oportunidades profissionais e projetos remotos. / Available for
 
 ## Vyntriva Tech — Software House & Digital Solutions
 
-Sou fundador e CEO da Vyntriva Tech. Conduzo projetos de interfaces, APIs, sistemas personalizados, automação e integrações com apoio de IA. Transformamos ideias em tecnologia, com escopo e viabilidade avaliados antes de cada proposta. Projetos próprios e estudos técnicos estão documentados acima; não equivalem a domínio avançado ou clientes contratantes.
+Sou fundador e CEO da Vyntriva Tech. Conduzo projetos de interfaces, APIs, sistemas personalizados, automação e integrações com apoio de IA. Transformamos ideias em tecnologia, com escopo e viabilidade avaliados antes de cada proposta. Projetos e estudos técnicos estão documentados acima, com funcionalidades e limitações descritas em seus respectivos contextos.
 
 [Serviços PT/EN](https://vyntriva-tech.onrender.com/servicos.html) · [Portfólio técnico](https://vyntriva-tech.onrender.com/portfolio.html) · [Briefing](https://vyntriva-tech.onrender.com/orcamento.html)
