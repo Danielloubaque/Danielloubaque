@@ -15,7 +15,6 @@ Tenho conhecimentos de Windows, hardware, periféricos e redes básicas; fundame
 | Vyntriva Tech | [Estudo de caso](https://github.com/Danielloubaque/vyntriva-tech-portfolio) | [Site PT/EN](https://vyntriva-tech.onrender.com) |
 | Steady Income Journal | [Estudo de caso](https://github.com/Danielloubaque/steady-income-journal-portfolio) | [Blog](https://steadyincomejournal.blogspot.com/) |
 | American Civic Brief | [Estudo de caso](https://github.com/Danielloubaque/american-civic-brief-portfolio) | [Blog](https://americancivicbrief.blogspot.com/) |
-| OmniHub Sync | [Estudo de caso](https://github.com/Danielloubaque/omnihub-sync-portfolio) | Sem demonstração pública com dados comerciais |
 
 ## English
 I am the founder and CEO of Vyntriva Tech, studying Systems Analysis and Development and Full Stack Development at TipsCode. I build software, web interfaces, backend services, process automation and system integrations, applying AI as a development tool. I am seeking entry-level IT support, help desk, service desk and junior web opportunities, including remote work from Brazil. My background includes quality inspection, documented procedures and teamwork. Portuguese is my primary language; I do not currently have professional working proficiency in English.
