@@ -1,5 +1,5 @@
 # Daniel de Omena Loubaque
-### TI • Web • Automação | Brazil • Remote
+### TI • Full Stack • Software • Automação | Brazil • Remote
 
 Sou um profissional em transição da produção industrial para Tecnologia da Informação, cursando Desenvolvimento Full Stack na TipsCode. Busco oportunidades de entrada em Suporte N1, Help Desk, Service Desk e Desenvolvimento Web Júnior, inclusive trabalho remoto.
 
@@ -25,3 +25,9 @@ Sou responsável pelos objetivos, decisões de produto e acompanhamento dos proj
 [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) • [Vyntriva Tech](https://vyntriva-tech.onrender.com) • [E-mail profissional](mailto:danielloubaque.omena.om@gmail.com)
 
 Disponível para oportunidades profissionais e projetos remotos. / Available for entry-level opportunities and remote projects.
+
+## Vyntriva Tech — Software House & Digital Solutions
+
+Sou fundador e CEO da Vyntriva Tech. Conduzo projetos de interfaces, APIs, sistemas personalizados, automação e integrações com apoio de IA. Transformamos ideias em tecnologia, com escopo e viabilidade avaliados antes de cada proposta. Projetos próprios e estudos técnicos estão documentados acima; não equivalem a domínio avançado ou clientes contratantes.
+
+[Serviços PT/EN](https://vyntriva-tech.onrender.com/servicos.html) · [Portfólio técnico](https://vyntriva-tech.onrender.com/portfolio.html) · [Briefing](https://vyntriva-tech.onrender.com/orcamento.html)
