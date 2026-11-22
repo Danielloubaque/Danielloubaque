@@ -11,7 +11,7 @@ Tenho conhecimentos de Windows, hardware, periféricos e redes básicas; fundame
 | Projeto | Apresentação pública | Demonstração |
 |---|---|---|
 | AchôPreço | [Estudo de caso](https://github.com/Danielloubaque/achopreco-portfolio) | [Comparador](https://www.xn--achopreo-y0a.com.br/) |
-| Domyra | [Código e documentação](https://github.com/Danielloubaque/domyra-site) | [GitHub Pages](https://danielloubaque.github.io/domyra-site/) |
+| Domyra | [Código e documentação](https://github.com/Danielloubaque/domyra-site) | [Domínio oficial](https://domyra.net.br/) |
 | Vyntriva Tech | [Estudo de caso](https://github.com/Danielloubaque/vyntriva-tech-portfolio) | [Site PT/EN](https://vyntriva-tech.onrender.com) |
 | Steady Income Journal | [Estudo de caso](https://github.com/Danielloubaque/steady-income-journal-portfolio) | [Blog](https://steadyincomejournal.blogspot.com/) |
 | American Civic Brief | [Estudo de caso](https://github.com/Danielloubaque/american-civic-brief-portfolio) | [Blog](https://americancivicbrief.blogspot.com/) |
